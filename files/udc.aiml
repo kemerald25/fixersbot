@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <pattern>Hi</pattern>
+    <template>Hello! Welcome to FIXERSTOUCH. How can I assist you today?</template>
   </category>
 <category>
-    <pattern>Hello good day</pattern>
-    <template>Welcome to FixersTouch Limited, how may I be of help to you?</template>
+    <pattern>What services does FIXERSTOUCH offer </pattern>
+    <template>FIXERSTOUCH provides innovative engineering and sustainable luxury lifestyle solutions for residential, commercial, and industrial properties. Whether you're looking to enhance your living space or improve your business environment, we've got you covered.</template>
+</category>
+<category>
+    <pattern>How does FIXERSTOUCH collaborate with clients </pattern>
+    <template>At FIXERSTOUCH, we believe in close collaboration. We work with clients to understand their preferences and offer tailored solutions. Whether you have a specific vision in mind or need professional recommendations, we're here to exceed your expectations.</template>
+</category>
+<category>
+    <pattern>How does FIXERSTOUCH integrate technology and ensure security </pattern>
+    <template>Our projects integrate cutting-edge technology with a focus on safety and security. We collaborate with other businesses within the ODABJ Group to provide comprehensive solutions, ensuring the well-being of residents, employees, and assets.</template>
+</category>
+<category>
+    <pattern>Can FIXERSTOUCH handle both large-scale industrial projects and smaller residential projects </pattern>
+    <template>Absolutely! FIXERSTOUCH is equipped to handle a diverse range of projects, from large-scale industrial facilities to smaller residential endeavors. Each project receives the same level of dedication and quality.</template>
+</category>
+<category>
+    <pattern> How does FIXERSTOUCH balance innovation and budget considerations </pattern>
+    <template>Striking the right balance between innovation and budget is a priority at FIXERSTOUCH. Our professionals work closely with clients to ensure creative and innovative solutions that align with their financial parameters.</template>
+</category>
+<category>
+    <pattern>How can I get in touch with FIXERSTOUCH </pattern>
+    <template>You can reach us at 08098138583, 08165678228 or
+ fixerstouch@odabjgroup.ng. Feel free to ask any questions, or let us know how we can assist you further.</template>
 </category>
 </aiml>
